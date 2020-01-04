@@ -1,1 +1,1 @@
-From [Node, Express, SSL Certificate: Run HTTPS Server from scratch in 5 steps](https://dev.to/omergulen/step-by-step-node-express-ssl-certificate-run-https-server-from-scratch-in-5-steps-5b87)
+Step 1 from [Node, Express, SSL Certificate: Run HTTPS Server from scratch in 5 steps](https://dev.to/omergulen/step-by-step-node-express-ssl-certificate-run-https-server-from-scratch-in-5-steps-5b87)

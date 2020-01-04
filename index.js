@@ -12,7 +12,12 @@ app.get('/', (req, res) => {
   res.send('Hello dev.to!')
 })
 
+// create another route
+app.get('/keegoid', (req, res) => {
+  res.send('Hello Keegoid! Welcome to dev.to!')
+})
+
 // start server listening on `PORT`
 app.listen(PORT, () => {
-  console.log(`Server running at: http://localhost:${PORT}/`)
+  console.log(`Server running at: http://localhost:${PORT}/keegoid`)
 })
